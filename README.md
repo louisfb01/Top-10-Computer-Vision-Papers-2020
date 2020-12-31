@@ -19,6 +19,12 @@ Maintainer - [louisfb01](https://github.com/louisfb01)
 
 ---
 
+### If you are interested in AI research, here is another great repository for you:
+A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code.
+
+[2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
+
+
 ## The Full List
 - [Sea-thru: A Method For Removing Water From Underwater Images [1]](#1)
 - [Neural circuit policies enabling auditable autonomy [2]](#2)
